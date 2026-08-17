@@ -32,6 +32,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Commercials -->
+  <url>
+    <loc>https://dream-property-and-business.vercel.app/commercials/11-katha-factory-for-sale-jagadishpur-ramkrishnabati-howrah-dankuni.html</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Flats -->
   <url>
     <loc>https://dream-property-and-business.vercel.app/properties/flats/1-2-bhk-flats-for-sale-in-dankuni.html</loc>
